@@ -590,6 +590,10 @@ body {
     margin-left: -45px;
   }
 
+  .awsm-timeline-style-1 .awsm-date {
+    color: black;
+  }
+
   .awsm-timeline-style-1.awsm-responsive-right .awsm-labels span,
   .awsm-timeline-style-1.awsm-alternate.awsm-responsive-right
     .awsm-labels
